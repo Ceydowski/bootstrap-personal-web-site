@@ -1,0 +1,23 @@
+.resimslider{
+    height: 600px;
+}
+body{
+    padding-top: 50px;
+}
+.hakkimizda{
+    background-color: #f2f2f27e;
+}
+.ayrac{
+    border: none;
+    border-top: 3px solid #343434;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.ibeyaz{
+    color:azure;
+    position: relative;
+    top:-55px;
+}
+.galeri{
+    background-color:#f2f2f2 ;
+}
